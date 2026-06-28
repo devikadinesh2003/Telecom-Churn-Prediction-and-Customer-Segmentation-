@@ -1,15 +1,7 @@
-# 📊 Telecom Customer Churn Prediction & Customer Segmentation using Machine Learning
+# Telecom Customer Churn Prediction & Customer Segmentation using Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-green?logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
----
-
-## 📌 Project Overview
+##  Project Overview
 
 Customer churn is one of the biggest challenges faced by subscription-based businesses such as telecom companies. Retaining existing customers is significantly more cost-effective than acquiring new ones.
 
@@ -24,7 +16,7 @@ The project combines **Supervised Learning (Random Forest Classification)** and 
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 Telecom companies lose significant revenue when customers discontinue their services.
 
@@ -35,7 +27,7 @@ The objective of this project is to answer two important business questions:
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Dataset:** Telecom Customer Churn Dataset
 
@@ -65,7 +57,7 @@ The dataset contains customer demographic information, subscription details, ser
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 - Python
 - Pandas
@@ -77,7 +69,7 @@ The dataset contains customer demographic information, subscription details, ser
 
 ---
 
-# 📊 Project Workflow
+#  Project Workflow
 
 ```
 Dataset
@@ -115,7 +107,7 @@ Business Insights
 
 ---
 
-# 📈 Exploratory Data Analysis
+#  Exploratory Data Analysis
 
 Performed detailed exploratory analysis using various visualizations.
 
@@ -133,7 +125,7 @@ Performed detailed exploratory analysis using various visualizations.
 
 ---
 
-# ⚙️ Data Preprocessing
+#  Data Preprocessing
 
 The preprocessing pipeline includes:
 
@@ -146,7 +138,7 @@ The preprocessing pipeline includes:
 
 ---
 
-# 🤖 Machine Learning Model
+#  Machine Learning Model
 
 The primary classification model used is:
 
@@ -172,7 +164,7 @@ The model was further enhanced by:
 
 ---
 
-# 📏 Model Evaluation
+#  Model Evaluation
 
 The model was evaluated using multiple classification metrics:
 
@@ -185,7 +177,7 @@ The model was evaluated using multiple classification metrics:
 - ROC-AUC Score
 - Cross Validation
 
-### 📌 ROC-AUC Score
+###  ROC-AUC Score
 
 **ROC-AUC = 0.857**
 
@@ -193,7 +185,7 @@ The ROC curve demonstrates good discriminative ability, indicating that the mode
 
 ---
 
-# 📊 Customer Segmentation
+#  Customer Segmentation
 
 To complement churn prediction, customers were segmented using **K-Means Clustering**.
 
@@ -214,7 +206,7 @@ The resulting customer segments can be used for:
 
 ---
 
-# 📌 Key Business Insights
+#  Key Business Insights
 
 - Customers with Month-to-Month contracts are significantly more likely to churn.
 - Long-tenure customers are generally more loyal.
@@ -224,7 +216,7 @@ The resulting customer segments can be used for:
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```
 Telecom-Churn-Prediction-and-Customer-Segmentation
@@ -247,18 +239,7 @@ Telecom-Churn-Prediction-and-Customer-Segmentation
 
 ---
 
-# 🚀 Future Improvements
-
-- Deploy the model using Streamlit
-- Compare with XGBoost and LightGBM
-- Add SHAP Explainability
-- Perform Automated Hyperparameter Optimization
-- Deploy as a REST API
-- Real-time Churn Prediction Dashboard
-
----
-
-# 💼 Skills Demonstrated
+#  Skills Demonstrated
 
 - Machine Learning
 - Customer Analytics
@@ -273,39 +254,26 @@ Telecom-Churn-Prediction-and-Customer-Segmentation
 
 ---
 
-# 📷 Project Screenshots
+#  Acknowledgement
 
-Include screenshots of:
-
-- Customer Churn Distribution
-- Contract vs Churn
-- Heatmap
-- Confusion Matrix
-- ROC Curve
-- Feature Importance
-- Elbow Method
-- Customer Clusters
-
----
-
-# 📚 Acknowledgement
-
-This project was developed as part of my Machine Learning learning journey during the **CBSOT Summer Internship Programme**.
+This project was developed as part of my **Summer Internship Programme** at **Coding Blocks School Of Technology (CBSOT)**.
 
 I sincerely thank my mentors and the CBSOT team for their continuous guidance, valuable feedback, and support throughout the project.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Devika Dinesh**
 
 MS Artificial Intelligence & Data Science
 
-ABV-IIITM Gwalior
+ABV-Indian Institute of Information Technology and Managaement, Gwalior, Madhya Pradesh
 
 GitHub: https://github.com/devikadinesh2003
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: www.linkedin.com/in/devika-dinesh-354b9023a
+
+
 
 ---
