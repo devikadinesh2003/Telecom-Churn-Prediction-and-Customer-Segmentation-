@@ -223,9 +223,10 @@ Telecom-Churn-Prediction-and-Customer-Segmentation-using-Machine-Learning/
 │
 ├── README.md
 ├── requirements.txt
+├── Telecom_Churn_Prediction_and_Customer_Segmentation.ipynb
 │
 ├── data/
-│   ├── Telecom_Churn_Prediction_and_Customer_Segmentation.ipynb
+│   └── README.md
 │
 └── Images/
     ├── churn_distribution.png
